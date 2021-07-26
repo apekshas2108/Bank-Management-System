@@ -1,0 +1,37 @@
+if(cin.fail())
+        {
+        	cin.clear();
+        	cin.ignore(512,'\n');
+        	cout<<"not proper";
+        	goto label2;
+		}
+
+
+
+
+3847                        200
+30985                        224
+31571          ghyg          4     5
+24277          54444545          4675565
+20087          nehal          S  1000
+20571          enjme          2     0
+25629                        212
+11607                        204
+1429                        216
+23754                        168
+20643          sec          S   232
+22847          behjf          S  1222
+13397          jhbd          S 12334
+11095          dsdd          C   233
+29111          ddd          C  4321
+4052          sdef          C  1233
+18290          fff          S   200
+24440          erj          C   300
+24891          dmsdbv          S   100
+25071          fnsdmhbfhsnf          S   500
+29714          vbv          S   500
+7375          vggfh          S  4454
+29995          vbvb          S   500
+30720           vbcbv          S   700
+31030          bvh          S   500
+32216
